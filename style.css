@@ -71,3 +71,7 @@ a:active { background: #ffca28; }
 
 .navicon div:after { top: 7px; }
 
+body {
+color:white;
+}
+
