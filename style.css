@@ -5,12 +5,13 @@ body {
   background-size: cover;
   padding: 50px;
   margin: 0;
+  color:white;
 }
 
 nav {
   width: 300px;
-  background: white;
-  color: white;
+  background: grey;
+  color: black;
   -webkit-clip-path: circle(24px at 30px 24px);
   clip-path: circle(24px at 32px 24px);
   -webkit-transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
@@ -71,7 +72,6 @@ a:active { background: #ffca28; }
 
 .navicon div:after { top: 7px; }
 
-body {
-color:white;
-}
+
+
 
