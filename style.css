@@ -63,7 +63,7 @@ a:active { background: #ffca28; }
   content: "";
   width: 20px;
   height: 2px;
-  background: rgba(0, 0, 0, 0.87);
+  background: dark;
   position: absolute;
 }
 
